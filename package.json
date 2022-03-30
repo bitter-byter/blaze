@@ -1,0 +1,24 @@
+{
+  "name": "blaze",
+  "version": "1.0.0",
+  "description": "WYSIWYG | Rich Text Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitter-byter/blaze.git"
+  },
+  "keywords": [
+    "blaze",
+    "rich-text",
+    "WYSIWYG"
+  ],
+  "author": "BitterByter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitter-byter/blaze/issues"
+  },
+  "homepage": "https://github.com/bitter-byter/blaze#readme"
+}
